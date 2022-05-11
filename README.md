@@ -1,2 +1,2 @@
-# DioDesafio_primeiro_reposit-rio
+# DioDesafio_GitHub_primeiro_repositorio
 Desafio de primeiro repositório DIO
